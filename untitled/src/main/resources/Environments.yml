@@ -1,0 +1,13 @@
+DEV:
+  APP_URL: 'src/main/resources/assets'
+  JSON_SERVER_HOSTNAME: '10.127.130.243:8110'
+  AUTH_HOSTNAME: 'http://10.127.130.243:8083/'
+  BROKER_MORTGAGE_HOSTNAME: 'http://10.127.130.243:8196/'
+  CUSTOMER_MORTGAGE_HOSTNAME: 'http://10.127.130.243:8105/'
+  DATABASE_URL: 'jdbc:postgresql://10.127.130.243:5432/rb_home_db'
+  DATABASE_USERNAME: 'postgres'
+  DATABASE_PASSWORD: 'postgres'
+SIT:
+  APP_URL: '/Users/macmini/Desktop/builds/android'
+UAT:
+  APP_URL: '/Users/macmini/Desktop/builds/android'

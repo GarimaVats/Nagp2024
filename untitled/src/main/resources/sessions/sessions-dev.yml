@@ -1,0 +1,18 @@
+ANDROID:
+  OS: "ANDROID"
+  APPIUM_IP: "0.0.0.0"
+  APPIUM_PORT: "4723"
+  DEVICE_NAME: "Nexus S API 27"
+  AUTOMATION_NAME: "UIAUTOMATOR2"
+  PLATFORM_VERSION: "8.1"
+  DEVICE_ID: "emulator-5554"
+  SESSION_TIMEOUT: "600000"
+  APP_NAME: "Android_UI_Design-1.0.apk"
+  APP_VERSION: "0.0.0"
+  APP_PACKAGE: "com.boopathy.raja.tutorial"
+  APP_ACTIVITY: "com.boopathy.raja.tutorial.Splash"
+  BUNDLE_ID: 'com.boopathy.raja'
+    ################ TEST DATA END ##########
+
+
+
